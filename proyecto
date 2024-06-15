@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AYUDA PARA ADOLECENTES</title>
+    <link rel="stylesheet" href="parte2.css">
+</head>
+<body>
+
+    <header>
+        <h1>ADICCIONES Y SALUD MENTAL</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">INICIO</a></li>
+                <li><a href="#preguntas">PREGUNTAS</a></li>
+                <li><a href="#formulario de registrto">FORMULARIO DE REGISTRO</a></li>
+                <li><a href="#acerca de nosotros">ACERCA DE NOSOTROS</a></li>
+                <li><a href="#centros de ayuda">CENTRO DE AYUDA</a></li>
+                <li><a href="#salud mental y manejo de emociones">SALID MENTAL Y MANEJO DE EMOCIONES</a></li>
+                <li><a href="#control de adicciones y apoyo">CONTROL DE ADICCIONES Y APOYO</a></li>
+                <li><a href="#quizz">QUIZZ</a></li>
+                <li><a href="#objetivo">OBJETIVO</a></li>
+                <li><a href="#mision">MISION</a></li>
+                <li><a href="#vision">VISION</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <div class="item" id="inicio">
+            <h3>INICIO</h3>
+            <p>En un mundo donde las presiones y desafíos de la vida cotidiana pueden ser abrumadores, la salud mental y el bienestar se han convertido en prioridades cruciales. La lucha contra las adicciones y los trastornos mentales es una realidad para muchas personas, y reconocemos la importancia de brindar un espacio seguro y comprensivo para abordar estos temas.
+
+                Bienvenidos a nuestra página web dedicada a las adicciones y la salud mental. Aquí, nos comprometemos a proporcionar información integral, recursos prácticos y apoyo emocional a quienes buscan entender, enfrentar y superar estos desafíos. Desde consejos prácticos hasta historias de superación, nuestro objetivo es ser una fuente de inspiración y ayuda para aquellos que buscan mejorar su calidad de vida y encontrar la paz interior.</p>
+        </div>
+        <img src="mi_imagen.jpg" alt="">   
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnonvqp1co69MmMlrd2i8lbmSc6Q0KVLhR8Q&usqp=CAU" alt="Mi Foto Externa">
+
+    <p>A través de artículos informativos, testimonios personales, herramientas de autoevaluación y conexiones con profesionales de la salud mental, nuestra página web está diseñada para ser un faro de esperanza y guía en el camino hacia la recuperación y el bienestar. Nos comprometemos a construir una comunidad de apoyo donde cada individuo se sienta escuchado, comprendido y valorado.
+
+        Te invitamos a explorar nuestra página, participar en nuestras discusiones y utilizar nuestros recursos para comenzar tu propio viaje hacia una vida más saludable y equilibrada. Juntos, podemos derribar estigmas, promover la comprensión y trabajar hacia un mundo donde la salud mental sea una prioridad para todos. ¡Bienvenidos a nuestra comunidad de apoyo y crecimiento personal!</p>    
+    
+       
+    </head>
+    <body>
+        
+         
+    <img src="mi_imagen.jpg" alt="">   
+    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBcVFRUYGBcYHCEeGhkaGh0gIBodHR0aIBogHRwgICwjGh0pIBoZJDYkKS0vMzMzHSI4PjgwPSwyMy8BCwsLDw4PHhISHi8pIioyMjIyMjIyMjIyMjIyMjIyNDIyMjIyMjIyMjIyMjIyMi8yMjIyMjIyMjIyMjIyMjIyMv/AABEIALcBEwMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAEBgMFAAIHAQj/xABAEAABAgMGAwYEBAUEAgIDAAABAhEAAyEEBRIxQVEiYXEGE4GRobEywdHwQlJi4RQjcoLxM5KisgdDFcIkU6P/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMABAX/xAAvEQACAgICAQIEAgsAAAAAAAAAAQIRAyESMUEEURMiYXEygQUUIyQ0QpGhscHR/9oADAMBAAIRAxEAPwCjsUp86VEWq5MsB1gYd6O0BXWhWJWJgxqOWlYt5yAEHcjhplzyLxYwBPsMpTKlFAKcgpmNK9GG/nC6ZbOPJq76wUi0KlzMagSCSA4ZwHBOHoTEcpWJY29H+2hJBSJJCDTp8xDn2evHAsSyeJitP9IKXD8safA8oXLBIdQOjDzYn5RaLQROQUlimTMLt+uSfpCJ0x6s6pYLUFJBg6EvszeomS0zE0BopP5Vaj5jkRDfImOIeSvaJksRz5KVpKFAFKgxB1BiSMhDHJ74uZVnmKl/gJGA7pfXciohbssj+WVNmtfl3ivoI7Tft2CfLYfGmqTz1HQ5RymTZlJkpBBBdlAioJWcQI0OcLIpF2AXTJItFnUdJss//wBE/tHc1ppHIbMgd5KVSkwHyWk/KOpT7caiWjE2ZJYD6w0ATA7anOF+enig63i1qywjkEqPrhPvFKuVOfjUQf6f2ixMvbGYq7/R/MfdAHqr5RPZe9TV0qGxcerAQLeNqExaSzMCFA6Ef5iWXopDs0lGqRqVMPc+whqsyMKQNhCl2dSZk5a6lMoYR/UpifIBPnDQu0YfiSoDdqekDGtWab3QUmJkGA5FoSocKgehghKooISTF0iOz5k8vv2jScsVJLAByeQzjaQtwCzYgPZ4lNjwQQkxqTrG6UEx4uWQBQwqGZEtXzivJq+fXxgmYunh7vAKy3iIwTyaulCBp9+EQXYlapk0CrFtBhBQliCdc6iCUplk8UwJqA5oHyAB1LtT6Ra2ezS0EnCxLOdz0yBhkhWzWzSihLE+cbzVUoY3nTQCxLE5aj6QBaWbEB1AJbqDRt6wQEE6ypYk4jqCVE+T5Qr3pLBVpSj6wVa72my1qQsMCHRR35Prpk8RGU4cE4VV0OmYO0MgChNkqc1Pp8xGQXarGy1ddj9YyGBQt3bailQUp21qanIewi1Xf5xgEcLae/zbpCygnfeNkrr9+ELyNQVPtOMlSiSSXc86VA1aGfsncCrScZJTKSWKqOo6hOgzDnSmeUJqFDXLWO4XVZxIs0qWBkgP+pRAJ81FRjLZronst3yJIAly00/EUgk/3F1fKJ5qJEz/AFJaS4KXADgFnD5gFk5HQbR6EhIdXEo5vkI1MzFQgN0huNi8hRtlg/8AjJgnIWV2OaoImPUyiTwKVyBLPsWNWd3u606P0O4gNVhTNlzbOusuahSejjfcZjpCB/437Rkj+Emn+ZKHATqkUKeqfbpAXyug97OxJVSKK8u00uXwo41ZP+F+v4vCKC973mTXQDhlihb8R58uUDXZdq5q2TwgfEs6Dlt0jKKMXcm9Jqy6lMDpl6fWKG9Q85XPCfH65Q82W75aAAlCSQAMRFSwZ20ip7Q3SCBNSkOkjFhBcp8Ns4WStDRdMTlyAxOX+En5w/3LOUbPLUwxYak7wmd2CM/iz8QB8oht9pmGUJKVrQivwEgklRNSK7fOEi6HkrGi+L3RLfvLSlHiB7D5wvrv2UWH8WT1UPcqLwiWy5FVGLEk57nqdY0k2MhIBcNTQ5ZQk804+Bo4oPydRu+2Yh/LmombhwfURRXjak4phHCxry39oVLrsiEzO8BdQ2NQfAxN2itZQguSSss78q+8Fycoq0BRUZaY1dkpkyZLxA4JZdhR1HEXJ5bRfKnLS2FYO4PD60eKPs9a0SZKESmUkD4yoOrc1dnLlosjfBPxBBH6kuPNP0i8VSonK2wiYtCj/MQUK0WKHriH0MYbXNlVJ72V+b8SRzahHMRtZilYJQCjmkhaD1GkDTSUEuAkgEkVwrAGmym+9IICa+LaDJAS/wDNUE/2kuv/AIuP7ov7OwSFE5ZeAr4COf2C1/xE7h/0kKwS66PxqHWjNoBD1NQqYUpTlhBfStfnEV80h38sSf8AiSqiQS3gB9I8VNUK4abgu3kTFZaZqjwoBwjIB/MtqYERaZiFfiSebxXiJZelaZg57/IxXLSXKSMsx5vyj1c4ApWAwWKjm9flG9rmMoEk8QFBvUGnhCSiNFkCEArqQ3xeRBYPk3MxZTJuEAJFdgQDzdjXWkVkyYSErlpKixCjQkEDI8JbMNAarwASUnFw1cBmd6Z4VZGgHplkZk1pt5luVqqS4ZyySwcDKhw57wMLwVO4UFRKaLUCGUNcIypStNIklWgKUFlCXLj8LU1JYKBbRjFfZrJhmHvFlKlEskUSrdwPhctQ8t6EwWi7+7AdSljM1OFyBkli+RLuIHVOSHwFkChDMzUDcvKJ7SFFCgFNMbiZxTQYnc5ZmFtdnUVsoYsVcTh0tmC1Dpzo+kFIxPMtdTT/AJD6x7AEyQQSAHAyLt4ZaZRkGjWIyWbwjUV8zHgO4fL3gqRZJikKWlCilIqdNz1PIQhgfDn4x3C57ULRZJU1JdgAsbKSwWPME9CI4jLGW7Qydm+00ywrSQMcpZHeI3cfEnZQbxFNoKdCtWdcnoL/AHlpHqLOYjuu/wCyTkBSZgA0CqNyfKC519WaWHxhXJNf2h3NCcWbTVCTKVNV+AKI6kMkfe8fN8xa02oqlEhYmOkjf7d/GOn9tO14UnCKD8CAczufrHLCkviJrm/P/Mc85Nuy0Y0h/ui/gVy5c8JQtT4cJJSVGubUJy10rWOg3CXT+VL+Kj96xxGzJM2UQCe8lHEk6tnQ7iHnshfqpsgS8R70cKyTUs2WwU9TyIgYcrdp9obJjSprofbdfgSe7lAKVqX4EdTr7dYqLVeII4lLmqP9qX/SCCW8BvAdpVLkoK1rShIzUosPAQg9oe1BmPLkOEGiphopQ2SPwp9Yo5ewij7jbYbciZ8BcJXhzfLV9dawSZdSDnn1ZzHOuzd4GVMA0UR5x0RUwHCsdeoq/wB84w4q9p7HQHb6wtCyAMojo8dIv6wugu2zPXy1hNtFnBYK08IPFjKEmrosrgsCgl2oTnppFd2uWFKwJ/8AWakBnJEM13XmmVZ1IUlOHMuTnkKAPrvCjOHeLmKGx38GjcaQOPu0C3Pe6pLpUMcs/h1HNP0houm8JcwYJUxLjIKcK5hnDtCb3URplDbWEpC20dPsqlYuE8SRVYLEHwzOrQHfvahZsqpeJPelWEKaqtC3gXc5c3pz8z5iQyZkwDYLUAc9jBtzyCuYCagVryy9hBtpG02N91TP4ayzF5YZasPUBh6gecdK7J3imdY5MwGuBKVdQAC8c07VcNmCBSqUkD72SD4wD2H7Vmxnu5lZSv8AiTvy56V8Fi6YZqzuUtAAYACNLRZkLSQoD6RX2G/JM1IUiYkg7kDyORie0XjLSCTMQkblQ+sVJUDrux5YSDVKjXqYor2tQUpRRUJoGObUPq8a3l2rkTEGVLtHdhTgzAHWXz7tP4eSlU2eKC8JqZUuVLlCZ8IAKgxCchiThOJRAyTUagPAdsMWkWKF546gBlCpSdWbI5s/OBl2l1rQMQASgtiP4seYchxhO+eZzhQXNty1VlTAnfGtJOxYEbRFaVTUglKrQhbpBJdQFRmSDkFFTE684Whkx4lzjhoQHGWRLZa1oa/s8AWm2qChhdk5AEgO54iKh6nSKRN5T0ii0TkmlRhV5h0vw7CM/j0rVhUChbHgVQ+ByUMsnjW0HRfot6U8eCqjx5kkjNgVOGGictoCVehSpsDIc0oMWdcNGHIP5xDJtypRJDksEipAbV0gcVCWf9or7RMmTAxVwoBZL5Jq7BnOTNDpitFym0k/hHplprtGQtpvJaRh26/WMhuSBRS2FCO8SJpZD8XQAluTsz84drMuXaJeFDBABThTRhy2I2hFmeWft/iJ7svJchYWk0/En83784EZUZolt12rkTGVVJ+FWih8juIgtR4Oje37x0Sz91bZTioVmMiDuNlD7cGF6f2XVLCzNW0oPhKWxLpnWiG1J8Hgyj7ATMuO51SgJi1kKP8A60qIZ8u8bVtNPQU1uvSd3sxBUpDPw0cV3bb3jSwXuqVNJKlLlkkKfNSXoa5KGfprDLfNy9+gTZYeZh4CP/ajb+oVZ+Y6K1a0MnTEtiSSSSdSav4xMmTSuVW+XvGooFabvp1gi7lyxMR3uMyndWBsRDUZ6ZpD8niE3SbHiZZl9zMRM/DUK5hwD8zE94WRUqdjlYgDxpUl6PnUZZmGu/DImWVAkSkIl55cWIfhUvNyxFSatFLKR3tmIAZaKEPmNB05biPOh6hSayU1umv8M6eDS4/mL94TVTEvMWpai1VKJZ2GsaFMQ2lTJA2Un3/aJyt/vnHpo5mRpLFxoRD52btveIwtUM3WEMChS4d9/XpWGTslaTLclgR8PzPhDoU6HakBMsuAWFfKsc7taWWSMnh3kW5M1BALgZ83z9jFBeV3BJKh5ecUMpyTKubNQZanNTpzgIzAiXgSxWs1bQbRYTrGAApW78iB9vACr0wrIlJxKJZ2+yYPgNpsBUjC7ir8I2OZ9xA6pgAB+/usT29KkrGLMh/N38YrZq/vyiMhkrI59rajPDR2Qt0lJdcxKTsqmgpk2+sJ6+JQHnBMlBqaHVonKWjrx+nUpHU7+s4myFYSCRxpaoOmeuRhF7t/Aj0H7wz9jlhEioJxjEa5OogAA9H8YtbPZ5aFTZiAGWXL5UejRzz9TGCfl+xv1WTl9PcQAtSCTLUpJf8ACohzkMs9ItMEwyzjUsqSxJUtw22dKkV1Y7UIXYwBNWCEr+IgCiUk8IbIClfTSK9AUrhSCXNEAEvtSp8/3jri0lbOOUW3SJ7OmWllFImHTE4QK6JHFMP6uFPM5w1WC6pq5eMTBKCw9JQBObOkKKRTKkUFmuC0E4lKRJSPxLZSuuDL/cY2tAswmJE60zpoGfHRxUfpSNGFeYaJ/Hi5Vdsp8CXHlWi1m3YU5W2YTyErpkJe4iuk2WclUzu5yTUOFoqpwaukjDtkcoEvdS7eVTLNZipMtBcoFVM+EZgqOZo5z3hakW5ctSSjvBRlJBxCh4nGwrQ5NFqIWOVsnNWbLKSP/aio8SOJI60gC2spDKAmJNXHxDn+4aNbr7QrUlpiCoZYkiuLYpfMA6RNaJArMRR806EtqNKajlGoNkiLOqWjCpRUR+Jn0BFDmQFAPGiJiCFYyxZwAkEUcl6FtatpFQu0LJMwFT5EHNNKhvt43uye0xKFEVqlRA9dHhqBYcZUj/8AYr/afpHsWn8CvRQI0o3o9IyGo1ieLOVcIFS8QzUN984e1WKWASrI55e9OXkNoSrfaZYWoI4k6NU71L+EK1QC67LzzIBnqWUoNAkasaqPSoGph7XNRaZT/EhQ4gNtxHIO9LMEqbmfVt4tbhv6ZZlghKih6pBHpzgqdaA0Zf8AcyrPMY1lqHAvQ8v6uUXPYG+iid/CzQVyphGBgSZcwk8QauEtxbM+7sUq+LDbZZlKUEFWcuZwkK0Ugmj9DC9/BrsBmfy/5kxhLmuGKKukN8KnqeRAjdbQe9D1eXZqVLWu1IliZOZwFfA4fjwsxWaOTQM7O8ctvBcyZMmzJg4zmGZmcfKOk9k+0ptCBKmKAmAUfXZvL5dRb97Np7xU1KaLDLSPwq0I5H9uomrVo0XTpi12NngTZljnjgmgs+iqgtsSKg8uceqR/CWpcteRKQToUqSOL/d7xl9XQszJc2UcKgSX5gBSCPKL68bCm8LIiaA01AwqAzdxiHu3UR4mePw81v8ADPT+j8M64StfVHNO0ZlmZMEtQUAdN+W/UUgULcCLK9LmUg41KD1SoBqKT0LAkValaRTyg1DpSPWhFRildnPJu7ZOpTqADnFk28OV2dm51EgBKTQl6kFsVNPGAOwlgC5qpiw4QGS4piL+oHvHULnsxMwMKaxaCEbBLs7NzZB+EqQzb1GWWmecbIulU2ZhZqF/vd4fZZADRndp2Ag2Kc77RdmCZQSFBLUpUwsI7Jpl1VMW+6aN0jsU6xJVnXrFHed0liU1O0NpmON9qrKJXdsorBBZRz8T4wvImB3UHAq2/wBloce3lnIlglLFKvqISFfCOdfD7eIZNM6sEW3ZFK1O9IPBIQNz7fbwIkZD7rF1d9jVOnIloDnQbkAt6xzy7PTxfJBu/p/Xsa7GBKkU0FObBg3X5wTbJ/dSUhasg6tyEhz5lh4xZ2K5cU2XKmJIA4yMuFDMx14inLaF/wD8lS0SlplyyWKQS5dg6sjtwpjlwemnKam1q7ZP1HqoRi4xe60Vd3TzMQVTKJWsrXXMJwpSkc8RAA5RLYu0GD+XJSnGpRACczR8/wAQ5k/SKyxSErEtEyYpCKElGbgUHQFSj1VEN/WeRZ5ktdmWskBWILSocWQYlIzcnyjvnGMk4vs87HKcWpeC1tlnt03MJSP1TEf9UkxVzuzNoW+KdJP959gmK9V8TclODsSXjVV5zAdjkanTesQhjyx/CkjpyZcMvxNsc7HPmWCTLnd6lacTTBLSoYFUYF/jFfiDR72gvKx20JmJARaNZqMjmwWPxeNW1hJm3pMmSxKXMAlu7Nmc665/KI5UsggoKSamlMQAcjDoQxjqfJwpdnHFwU7atFoiw2pExMvvFCWtVVJUcB3JGWJnYKzNNYn/APkFJtS0pJEvEQAoksBkznUj1gewXuQ6TTQpOR+sTKlS1caGScyFEsd2qw6GkThlknxkiuTDFrlB6L2RJRNLANMI/lndQdpZB3qBsptCYqLdZgU4pdCOIUyrXoxbwI2iezLDJLkVAJrQ5pVTl/1i1vFATM73D8aQtSWZ8TpmhuawthsRHUkczMsfabgTizatNdYyFm2Wbu1qQ7AGnQ1B8QQfGPYFGtE9snTJv+qrZpSTQc1HUxX4Q4agbSClzqKKWAdiAMwdT4iA1K+/vrEx6N9Y85/esQrngcz95wOuaTmabD7+cK2YnmExdXT2iUhPdTQZsp3wFVUnQoWQW/p9oXUqbl4xOkAh3gc6DxL/ABqlkTJZLD4T50LZGOrdlr9TbJYSr/VSniyZQoD4/wCY5VdCk4QmaSUHNswNCH1Bz2gm77bMsk0FJIUD06edYopUI9nR72u0y6pDgKSQ42NR40HSIbvnJkz5kvAnu5gxYt1EZH+1PnEdp7ahfdpwDu1AY5jVcsHA0S+ca2+ViS27d2oVYpBUmvVIrzEQ9ThWSDXuPjnvYu33YkpWqUx4gwJLvUmWsE5GpB0qcmhPTdKplpRKBSjvCxUogJTuSTsAerCLq+L8nTLSiWvCZYdCEpSxqKucyQRpQA6Vixn2FCpakrGKZmKaMaqUWAFKe+kb02PIopT7rZskovoYbJIlygiRZ+ICmMj4j+I+NfOGO70qlu6yw03McTTOm2dZMteFmpVi/LLUZF4cbi7U4lBMw4V5MSWJ/SpmJzpnHXGS6JtHSU2ovUxaS5zh4W7FbEKSFQHdnaiV3lsSs4RJCFVaoU4pXkP90F0KN67UlIdRA6mKi8L6kihmJAjmd+9u5i1kS0pKQ+YUKeTjrTx0W7T2gmrLYEg8yT9KQvJIZI6D2yEmfIUAsEs4I9I5OZAUtTfCmg9g3kTFlLmTlqONWaSWAIyKdCOfjAkqUUFlVC8xUFzkxIbeOfJNOR6+DH+yTS/MiRIAOIFx4ZnLIkHI+UOP/jiyvPVNIogMH3hVU5DFhVzmd20rQnIR0XsZZu6smI5rLlnyzjYo3KxfUz4YuPn/AKNyJ+IzJh/Dwj3Lebf2xyDtVbO/mlYyGJPglX0r4x0m/bSZNjOiynn8a+nMmOU2UJxICjwksT+lYwqV4R0v2PICLuDTJeVXP/UD5wP2tZE2UtnAqeeFQ94msSSmYlKgykqUlXUf4Mbdq0l5SwnE2PYseFnSc6xwy/iF9jvg/wB2f3PZfaZEwYZktChspIPvHq7PYZtcCpZOstRb/aXHlFr2bvC7UyQmZZ5RI+JUxKVKcivEpyA+VdIq1S7CtZUlBQC5AQpQb1akLkgobTa+w+LI8umk/uE2TsJ3yFrs9plFiwTMCk6V4kg77eUBz+xtolJWpa5Ke7SSeNRydvwNp7QZZ5iJQ/kz1DVlYSHpsAfWKm+rZOKFPNCxMUAQHctXc04cotjyqUUr39iGbA4tutfcX8NR97Ra2KaOrCr75H5xXLQzKOT88tvUQQGIYGh22rF6TOZNoZbuDomvokKrqUzEjx4VwdbV4pSFflmLT4FMtQ9QrzinuucwId3QRtnhz3qBBdqtI7lKXr3qlEbDAgJPi6v9sOujFtJsKFpClZ5eCeEegEZAkq9EoSlKjUAP4gH5xkVtCUxURNYHnAsya/SN59Bq5iDDvHC5HRR57RshD0SK/flGYNy3vG3esGSGHLPzhb9g17kvdISOI8Ww8MzBF3y0zElIpMFUjRY1A2VqN6jaK8JjaQ4YgsQxBEB9dhXfRd2c0d+vln5ejjaGL+DFpkJKf9WUGJ/OA+HxCTFHJmd4O8A4gR3if1aLH6VHMb01EGWC0zJKkzJZoGxJ0UNH+3D9YOOaT2S9TilKNw7XRBdtq7tRlTKJNC/4Tk/TJ46hdV3gWbAqYFqBYYVA92c2cZkOPOOb32U2grnSk4SaYQKOAnEOtR8uRHZvtAqzKSCHQo8Q1GQB++cXUl14JS5KPKt+xNb7CZcwgl+8JKVEMUzAaf7hRuQg4TkzJaTmcgHHxVDO5AzIfkjeGC8rDLtUlZSwxJBSR+FWIEEH1hXMg4FJ+FRcKb8MwfE3ixH9u0bcWaE45Y2jebdyJhSvCHBybZJLc/hbwintt0lTYWBcjTYDcN+53hj/AIxEogzFAE0KQ5UFEEBTD4Umhc6KVEkqWkEf1OBycCnhGk1dorFOtlFcV/zJP8qaSzEAqzBrhcmqkmlakQHc8tU60HEXxHEpjQ/zCQ/QFx0hktF2S5rJUHbXX4QqjRv2eu9MkUqrEa5UGXoYVyCoiRPsoRMwkgBKwPAKmP6EecSy5aEq0dq1GwG/XJ4Zr1uFK5gUM1Akjcu0CKucApVh/wAZn3PlGsNCraJyhNUlJbFTOnCXU+2RzgeXPKSlwDUOpJFBWpwkgZih20eLS8rAJaVTU0mE06lQBIGTti8DygLs/dptNrkSWAClgECjIDqmf8QoweKYY5pw6ZLZyiY0tJqogVO7AtvR469ZrMB3Uocn6AYj7AeMJiLHLn3vMXLSlMuWxISkAO3LUhjD9d54ps05IThHVVVegRDwgo9Ay5pZKsV+39vBIlg5BzXwGo3PkIQEJBdyKUPQgN5HTlFh2qtpmTZp/UEjol39SYqZAp4F/SA3smloPtE4lpj8ZAC98SQwU/6kv4gxVptTJdaisklgrEcABYM5w5vofhGUHWW7pk1RCc0DEpTgBKUkOouapqMqxltskpkmWcQoVZsScxUOnWtQYLV7Bfg1ui+U2eWpAAxrWVLBFGAASH1rjgk22yzfilIBOZTwnzSxML1olMtQyA1NPSkEi7SVEBSAp+FKsQKugwuKMatnEJ4FJ3bTOjH6hwjTSaLqw2CzKmIeZMwlQBGLQmtcxAtmugzDNmlYEmUpRQFGswJLMC6aaYnzoKxV2QYJjTAoJSeJIUQSNgQ7A7j94IvS1OoYEhLZACiB+FkkZtrrDY8fHt2LkyqfSos76tUjukS5aBjZlEknD+lJA0JYCnwh3inswTQUfOPEJKgl3LD1avyguTLJPNXp4nlFWRC7NJd1uwSQG1J+I+AbPpGSkYlKJoHfoNImRIfglqqM1ZdW1/bmWgfAww5HXmeXKkEJNMSFEk6+2no0ZEPjGQvJjcURSrEZi+7DYlKKQ+yR+0C2hkcAAcU6mNU2opWFpLKBcHY5H2948tBKlBX5j66+/rHI07+hdSVAxjwCPXpGrwxjFKj2UqnhGqo9QMoL6AuywstrMuYFAOGZSfzJPxA9RruxhkEhkukkjDiFPiSTqN29YVrHKxrSnc+mvzh0npoGbhoA+jROkUbA7BLMvGVgmUopLjNLqBxDpl4QNe1kNSmpwvTJQcMoedR+xNtdVoC0lCgaEAA6pfLw9iNo0wYQXrLJZ9ZagoBxyG2x6xSErROcKYL2b7STLO6FMULocT06bP6Z1yi/vm04P/yZWSk8ThwF0AKgP6iDnpnFfNueXNQcgsGjVTV6g6pLe4zETXUk9wZcwPwKSoZukFOBY5pDA6sBsIdyslDHGF0uyC95S5soTJiQFpoopyKeHCaUcAsWMWdzAqkyirSh6BSmPkBFRd9rXLnIs81RVKKpktLlwxUWwvlVqdIaLFKCEqA+F6chR9Nh6xrGo0Qkk1fJ1dWA9iBA6pyUJTMWrCAC50FWHrSGGXZJQSHWylCrM1TQc2YQJedwJmy1oSUqSoGjsQcRIO1HHlHnx/SnpvicZPp/VFngnxsXLFecucCpJP8ALzfPJhXUEjOD1p9gGpqdObH2hM7N3WU2pSJqzLMslKk6k0odML+waHhKGfEciNQdvcR7WbHDip4+n/Y4YZ05vG+0LtvsomSVIpWqerqV9RCjY7RNs8zvJSzLmIcAsDQhiGL0ILR0S3WXCiWv85JSzZIDHhGjqFcoU79sQxGYn4SwVyNHiBV7GrsjZyiQu0LoudxnkFZNsMIHnG8jtxZVWZUtJUmbxKIUkgKzIZWWTAVhKs95WjAZYmrKFApCSXYEaE1Sw2MV8mz1yyB/6/vD89aF4ktqcmtTQ9XSPm8E3Uitcin/AO0QrQ8zk/s4g+zyWB3CR/3hByK8bOUqLZKDg6M+R3yiM2ppZloDP8Yo56cukXQCSClY4WZ9QaV9Yo7fYlSzyJooa55HQ0ygpitASxioatkYNl3cVHvAvGDUhKSpSXPEDTEDnm3jAyJbmu+7HzygtVlVmmYoHTEG8la9Xgikt4XPjKFoL4nx4iQWZkjiFDQ02gY3BNzwqI/MELag1UoBI6vFhZV3ikfy5s0j9K8XoCY1tdlt00fzUzFMCQVgUOQLqFD4wwCtNnQj4lgn8qGLdV/CPB+sepnflFfQdNzGqrOpPxs+zg+giWSHNM/vygDI9lSylT5lwQ/025RIsv4R4S31iPMH7eFsdI8p9mMj1uUZAMVBEboWVDDqKjwjByjYyjQpzf1iLQUwblGAQdNsa1y1TQn4C0wapJo5GYDgvzgMGAtlEeYaQSjSIEpcEQbLASHOW/0gSKRdBlmSEJKqYtPGMTeZCcKq89fGAsalqCUgkmgAi6sVgRLIMzjmZhOgPPf7blOUlHQUnJ2Wl3FKEoWpWFSiAkHNiRn95GuYiwTgAUM3LgHX8w8A9OUJl420rWS7ka7ZGnjDJdU/vJYOtPNiD8/OHxRaVvyJOSbotLMjApJQAUEgFOqFNxFP6ScLjcjaJpiaJUg4SEhjzO+44Y1krIOIDN3HNxiEEzpOv6R6hbeNYZsyRUIQJjOkJKZpYD8CnQSOQILjxFKPfTFslYObe4VTxf2ihtKSnvJgzHdlSfzBaQnzBQSD1iyRNC8OGuI6VJALCm4PtDIRi/2stUyVNQqWtSUqSRTIlKs6hsiPKLzs/dV6zJaJgMhKJgCk94pSVYTkrCgHMVD16QN2ms0gSQm0TAiYycCAMS8WuIDIV1LxVye29tlS0SgZfAkJStSSVYWAS/EzgatEZYMWTuKf5FPiTiu3QzS//HM3vFT5ttlpmKJKsEokV5lafsQuXbbFyp82zTFhZCyErDsSB5sR5GkU9q7UW2Y+OettksB6CA5OJ8VSqpfMv9c46YuUY8fHsczjFz5efceZ8lyFPxOQ7lwkaDxiC0WVJlrFCFaf3BXhWnhB9ndSZbOrGXyqWYD1p4xLbrnmSwHFVKAw4snNH2qXOzQjywUlFvb0h3GlbEVVjKFKSroD1AB9xGIWG0qAfDARDLe93tMCUqC3P4RR3QMLb0MVduu5Us4JiClTHMEUw8Oejn0i0k4S4vsljmpx5R2gBcsA4hU1Lc+H6wdLQEllZNL/AOwf5R6lDYn0Cm6Mj5gxMZZmzES0B1KZh7dMwfCAOe2KzLmqEtAxKLk1YABVSo6AAZwNeaFSlJlrZQqrcEVYj1hwWJVikqTQmneTNZi3ohAzwuaDUmEi+lWjvAufLXLCqJBFAKsAcnarZwq2Z6B5VlSWKS1TQ1Gehz9IxEiYkUyP5S/oK+cey1jD4kxrJnDQhxzrUwxiXvZqW+L/AG/tA1utE3BVS2cakZKG0EC0UAcu488oFvFJCCFAghs+oP1gct0HiDLG55bwRKWNPukVtqWXgWVOILgwWzRjZdrMeJq/SB02tKxkQfSJUGrRjNUb4oyIMBjIIAaYiu0T2RSHPektoweuxrk8aTBEZhXFAsubtvfuphmBRONBlzEqS4mIIwsquYGuZ11cC8rNIBl9wVN3f8zE795jW7csOD1gQViZMo1ZfUVyrsK7wjjx2hou+yGicqnn9IlSoLASXfRqnwEFos0slKQSVH4lGiQMywIc61PlHqbXLlpGH4ikFaqklxUA6DSIyf02dMPvSJLMTJTVISoh83IHM78ukAzbYVrYE8TJJOrsPKILxvHvFUoAGH3lAPe0pmC7w2PH/NJbEyZEnxi9DLeV0d1LEwKJGPAX6EuG0grs1aGBSCxdJHV6CDr3OKxrbLGhQ8QkRQ3HMaYNHHqGI9RFV1sm6T0dBueWmq5hwywMROgrk/h84gvLtWlc1EmglmiAw4dEknQHSF6+b4WJYk4QEhyw/EXPxfSFfEXxEuXd44o+nlPLzl0ul/s6pzhCCUdt9/QfLalisF+OWgjqha1N1YxV3lf82SnBLQEd4573MkPUJ2zgyfacUtCycm8HKAfnFXe9lKpUtVSEM5D6jPpw+sdvFSWzlc3F2hfKlLU5JJOZNSfvYRd2CwKnSC3xSsqEulRqHGzKNdA0AWez1FfriLsG3cAcnjo3Y7s3OSlOL+WZhcpUkkFKQ6Sw+I4mOEmuHJgXdRSJuTfZzuVZV1OBagFNkaHY/ld38t4tLtsC1TkIKCl1ADEDwgltdBvy8I6YbglBRwMtSaAYBhBLlRx1J3IfNw0Vd79nJhGNCR3isJQgJAXws5ZKlEZBkg4UhsqmBkg5RaXZoSp2wibeMiwS2CgVAVWc654fy9BtCBae285c3vEAd2g8KVucSiCHJDNQmnjFJfFqVMmKC1KUQSOKhSzhm0O77QFKsczKrCpDZZA5ZVIEQ9J+j16fIp5nykt+6Q+fPHLFxiqT7vyNF09pEi1C0TEqwISUoSC4CyzrP5gPdjpE1uv8z5qifgAISemZ6Go8oVbPZzRLnNhyrX3g9CQOHk3mBF8kFPJ8R9ksPyQ4LoubQSFf2n/qkkepintd7rlTApHCsNU7MKe4i4QvvADqRXr3Yr/xgO9bDixYhqkjTMAEebwUNJPwaz/4y0S5dpSkqRLUSkJcl0qzKXch39YJX20X3MxKxiWoEMoYg512LZsY37PzZyQyKISOHTw2ijt1lUJi8YYlSiR4vE8TyKUuSVeBpqPFU9+SulWtTYdBrr+8ZLVXFsze5j2bZwGYReX0tBlAIIUQoCmwQ3vHdjipRb6pHJObhJKrszs1KK5hWckZf1HL3JiftZaHVgH4EFzzP36xL2cnS5cmqmU5K3bPT0aKa0LMwrUc1v8At8o8aEZT9Q5PpaR6s+McKS7eyJSXf71iJdjeopBQQQA4+6fX2jeWcvvSO840QSbKUhiXgmUMo9jdAcj5c4KC3fZoRyjyDv4QnQnoKeFIyDQLKg1jVo8JjFQAGyE5R6k/T1jAr0+/kI2lysRZ2ZzAYUWNos5QgLLVdh0QDl4xWLs5oAH6dBEk5dC5JoajL4QPvpG8qdVjSh9w0RSlEs3GWitnymzDRFOlEAuCBiNW5QbbjUfeo/eD76tKFyyEqc4wQBszGOzFFODbZx5pOM1FLsls9qnzZHdpl8JCQVOK4Mm8hBty9npi1h5kuXTVR2bQRTWS8ZiEJQACEhgTt9mNxe00FxhGeh+sebkWd2oUjvxvDS5WXXbCyd3MSXBpUjIuKdHZUUdikYiHy+gyg+y2tU3vEzDiKg6S2RS4AHnFnYrKlKgkgZ08lfMRbGpxglJ78k58XK49Ek1KRIIz25MQ3k0OlzWKTNkELS5FMKUqbEoAJKuKpcVwNlkDSE+bKdBSlLkpfNLkkUABbXnXENobLnlhCzLKkiYnCSkmqSycTBJDKrQFVcLsygYvBE5mtg7Ly5ExKQ81RIcjIVKiFYQQMqiuQANRDZIkLL4yacKAlKHFGqGcGprTVtCQrrthUMYKkoowVRUxaq1OEO1Qz6MYYLPaaDFn1cPrxUc56CGZM2kScCQluFIA8ue0UXaTtLKszpBxTSMhoC+rMMoLvO8pspC1hKDmQCoMkBmDUJOZ/wARzW02nFjcA4lKUosQoHVtMJGg2EZBFO1WrvbUqb3bqVUODxqJ+JQ5B/IQ/wDY/s8iZLXjSDkkHEKZuSPxVI2+EwgpmssluJJzI0ceQzjqVjtZlWJKk1JS6WOTguXTnUuX5vGZkUt59nxKmPMSF5MwzYEUAD1cUhOt1kKJuEkFwDwl+J3Y820h7tNvXPYqJejYAzlywbw+xG1h7IoVxTZikYlABLMosE0xLFKsaDl0z6MJ9gssxYCUJJLUbM8IBbkCWfnFrf12FIQp1KVwggJdKQklTAsAmqi+5Vpq4T+zcpMxJlqUmYhIFAK/DVZavwjaMvazBMhZLd4El1BLuwcjen0gJBs5pOtq0A4QyWYJ/K1D9tmYr7baTMUCqpFMmoINmAhIdLYQHHVT1D9YFRLcvq5p1xRrMDps4IBiGXZ3B5JfLzMW0izvhApn4Zu/kTF1dFyImJKuIJyFQauoAigxOkkNzjJGYsXZYDNmBCQTu3n7ReJucIUkaguRoQx05FvOGmyXVKkoITw4gUuojyffL7EU15WxCVLCnBS7KGpzSx3Z6ZVMFIwDbzKwkqILCgbLTzcQskh6N4eMb2yalSsSC4U5d3qSSaaZxAC5jNmQfZLMZjtt8/p7RY3bYilRxgFhmHpUNWBrqmMGbx8KA+UWqLRnX7+cZIx6pAOaQfGMjbGIyGMIzx6hWUeRkIAkQPvpBCi3iPc/SMjIR9lF0RrHAr+n6/tEiEVJ5UHt8oyMhJDQIJ4++n+Y0UA8exkPHoSXZrt97RuD7+7xkZBAgmwKaYBuD6pMX8mc6S4+HnmDi9amMjIVjInTPJBahbfmHr95xadmS6VqWSoEBRH4lEpKs8sIVVnGdGaMjIaPYJDxZLsxlGPCZaHUKZqU4PNgSoB/0nNzBdrWlCFCWFHDxFsNASSThUwOvPrHsZDsRCxf1rmKCRQoLqDUGHIBQzJyhLmWtLCrYgNN8iWz08+sZGRkZlZKmmVO4yzKqWBJcOcqOKUyrDzNxTESZSD8QxNlixEIQTVviB5gNnHsZBMCWa1qkLUigAYgkAqYgEB9Gcw12O9SsY8eFIRThyLmpFXyyfXWMjIAQW57xWucsEBThwQSMTFnIPtE17WrGFy2oxBL7ivp1jIyMA5OqYyKkuFMedavvp5mNpK3II1UT7x7GQAh13TXUlISynYqc0+LEaF6AkUzzzpDvJIKCpKWBqFBnAOR0rhbzbSMjIPgwo2u0qE0y0lRSSDU5kke3yitvFUxTqLbZn9TehMZGQQMoJeXn7mNwc+n0jIyECWN3rYn19S79RlB0+aBU7O/KMjIfwAGnzGUW+/SMjIyME//2Q==" alt="Mi Foto Externa">
+
+    <div class="item" id="formulario de registro">
+        <h3>FORMULARIO</h3>
+        <p></p>
+        <form action="procesar.php" method="post">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required><br><br>
+            <label for="apellidos">Apellidos:</label>
+            <input type="text" id="apellidos" name="apellidos" required><br><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br><br>
+            <label for="telefono">Teléfono:</label>
+            <input type="tel" id="telefono" name="telefono"><br><br>
+            <input type="submit" value="Enviar">
+            </form>
+
+
+    </div>
+    
+    
+    
+    
+    <div class="item" id="preguntas">
+            <h3>PREGUNTAS</h3>
+            <body>
+
+                <div class="container">
+                    <h2>¿Porque lo haces??</h2>
+                    <form action="#" method="post">
+                        <label>
+                            <input type="radio" name="respuesta" value="necesidad">
+                            Necesidad
+                        </label>
+                        <label>
+                            <input type="radio" name="respuesta" value="diversion">
+                            Diversion
+                        </label>
+                
+                        <input type="submit" value="Responder">
+                    </form>
+                </div>
+                
+                </body>
+        </div>
+        <body>
+
+            <div class="container">
+                <h2>¿Tienes problemas en casa?</h2>
+                <form action="#" method="post">
+                    <label>
+                        <input type="radio" name="respuesta" value="Si">
+                        Si
+                    </label>
+                    <label>
+                        <input type="radio" name="respuesta" value="No">
+                        No
+                    </label>
+            
+                    <input type="submit" value="Responder">
+                </form>
+            </div>
+            
+            </body>
+    </div>
+    <body>
+
+        <div class="container">
+            <h2>¿Has consumido drogas?</h2>
+            <form action="#" method="post">
+                <label>
+                    <input type="radio" name="respuesta" value="Si">
+                    Si
+                </label>
+                <label>
+                    <input type="radio" name="respuesta" value="No">
+                    No
+                </label>
+        
+                <input type="submit" value="Responder">
+            </form>
+        </div>
+        
+        </body>
+</div>
+
+<body>
+
+    <div class="container">
+        <h2>¿Que tal te sientes?</h2>
+        <form action="#" method="post">
+            <label>
+                <input type="radio" name="respuesta" value="Bien">
+                Bien
+            </label>
+            <label>
+                <input type="radio" name="respuesta" value="Mal">
+                Mal
+            </label>
+    
+            <input type="submit" value="Responder">
+        </form>
+    </div>
+    
+    </body>
+</div>        
+
+<div class="container">
+    <h2>¿Sientes que te haces un bien o un mal?</h2>
+    <form action="#" method="post">
+        <label>
+            <input type="radio" name="respuesta" value="bien">
+            Bien
+        </label>
+        <label>
+            <input type="radio" name="respuesta" value="Mal">
+            Mal
+        </label>
+
+        <input type="submit" value="Responder">
+    </form>
+</div>
+
+</body>
+</div>
+<div class="item" id="acerca de nosotros">
+            <h3>ACERCA DE NOSOTROS</h3>
+            <p>El objetivo general de la página web sobre drogas y salud mental podría ser proporcionar información precisa y comprensible sobre el uso de drogas, sus efectos en la salud mental y las opciones de tratamiento disponibles.
+                1:
+                Las especificaciones podrían incluir características como:
+                
+                Diseño intuitivo y accesible para facilitar la navegación.
+                
+                Contenido informativo y actualizado sobre diferentes tipos de drogas y sus efectos.
+                
+                Recursos interactivos, como cuestionarios de autoevaluación o herramientas de ayuda para buscar tratamiento.
+                
+                Secciones dedicadas a la prevención, intervención y recuperación.
+                
+                Enlaces a recursos externos, como líneas de ayuda y centros de tratamiento.
+                
+                Información sobre los riesgos y las consecuencias del abuso de drogas en la salud mental y el bienestar general.</p>
+        </div>
+
+<img src="data:image/jpeg;base64,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" alt="">
+
+<p>A los desafios que nos podriamos a llegar a enfrentar con gente adicta podria ser el no querer salir de una zona o de un vinculo de amigos que tambien son adictos y eso pueda llegar a generar mas dependencia hacia el tipo de drogas o sustancias nocivas  </p>
+<img src="data:image/jpeg;base64,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" alt="">
+
+        <div class="item" id="centros de ayuda">
+            <h3>CENTROS DE AYUDA</h3>
+            <p><a href="https://www.inprf.gob.mx/clinicos/pregunta7.html">Clinica de ayuda</a></p>
+
+            <p><a href="https://www.salud.cdmx.gob.mx/unidades/modulos-de-salud-mental-y-centros-de-atencion-primaria-de-adicciones">Atencion de Adicciones</a></p>
+
+            <p><a href="https://imsama.edomex.gob.mx/">Instituo de la prevencion de salud mental y adicciones</a></p>
+
+            <p><a href="https://www.gob.mx/salud/conadic/acciones-y-programas/centro-de-atencion-ciudadana-contra-las-adicciones-134381">Linea de la vida</a></p>
+
+            <p><a href="https://www.inprf.gob.mx/transparencia/archivos/pdfs/preco_cesamac_2022.pdf">Cemasac</a></p>
+
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrqdjB-3jZs29zY1lB4-9EoxpVDxU2CQfuyQ&usqp=CAU" alt="">
+        </div>
+
+        <div class="item" id="salud mental y manejo de emociones">
+            <h3>SALUD MENTAL Y MANEJO DE EMOCIONES</h3>
+            <p>¿Tu hijo se encuentra en medio de una crisis por consumo de drogas y no sabes cómo intervenir? La Comisión Nacional contra las Adicciones (Conadic) cuenta con un grupo de expertos, que brindan apoyo a través del Centro de Orientación Telefónica (COT)</p>
+            <p> 01 800 911 2000</p>
+            <p>Oceánica es una de las clínicas más importantes y prestigiosas de México. Contamos con un equipo altamente especializado y con más de 30 años de experiencia, siendo la única en el país que cuenta con todas las acreditaciones institucionales.</p>
+            <p>55 8993 8948</p>
+            <p>CREA. Centro de Rehabilitación Especializado en ... Hacienda Nueva Vida Femenil. Centro de Rehabilitación ... Luis Donaldo Colosio , Ecatepec de Morelos, Mexico.</p>
+            <p>55 2233 1080</p>
+            <img src="https://www.shutterstock.com/image-vector/mental-health-day-man-profile-260nw-1826162159.jpg" alt="">
+            
+            <p>Factores que afectan la salud mental en los adolescentes</p>
+            <p>La salud mental y las adicciones en los adolescentes son influenciadas por una variedad de factores que pueden ser categorizados en biológicos, psicológicos, sociales y ambientales. Aquí se detallan algunos de los factores más relevantes:</p>
+            <p>Factores Biológicos:
+                1. Genética: Una predisposición genética a trastornos mentales o adicciones puede aumentar el riesgo en adolescentes.
+                2. Cambios hormonales: La pubertad y otros cambios hormonales pueden afectar el estado de ánimo y el comportamiento.
+                3. Desarrollo cerebral: El cerebro adolescente aún está en desarrollo, lo que puede influir en la regulación emocional y el control de impulsos.</p>
+            <p>Factores Psicológicos:
+                1. Autoestima: La baja autoestima y la autoimagen negativa pueden contribuir a problemas de salud mental y adicciones.
+                2. Estrés: La presión académica, social y familiar puede llevar a niveles elevados de estrés.
+                3. Trastornos mentales preexistentes: La presencia de condiciones como la depresión, la ansiedad o el TDAH puede aumentar el riesgo de desarrollar adicciones.</p>
+            <p>Factores Sociales:
+                1. Familia: La dinámica familiar, incluyendo la calidad de las relaciones y la presencia de conflictos, puede influir significativamente.
+                2. Amistades: La presión de grupo y las influencias de amigos pueden fomentar comportamientos de riesgo.
+                3. Aculturación: Para adolescentes inmigrantes o pertenecientes a minorías, el choque cultural y la discriminación pueden ser factores estresantes.</p>
+            <p>Factores Ambientales:
+                1. Entorno escolar: El ambiente en la escuela, incluyendo el acoso escolar y la presión académica, puede impactar la salud mental.
+                2. Acceso a sustancias: La disponibilidad de drogas y alcohol en el entorno cercano aumenta el riesgo de adicciones.
+                3. Medios de comunicación y redes sociales: La exposición a contenidos nocivos o idealizados en los medios puede afectar la percepción de la realidad y el bienestar emocional.</p>
+            <p>Factores Socioeconómicos:
+                1. Nivel socioeconómico: La pobreza y la inseguridad económica pueden generar estrés y limitaciones en el acceso a recursos de salud mental.
+                2. Acceso a servicios de salud: La disponibilidad y calidad de los servicios de salud mental y apoyo puede marcar una diferencia en la prevención y tratamiento.
+                </p>
+                <p>Intervenciones y Estrategias:
+                    Para abordar estos factores y apoyar la salud mental de los adolescentes, es crucial:
+                    - Promover la educación sobre salud mental: En escuelas y comunidades.
+                    - Fortalecer el apoyo familiar: A través de la terapia familiar y programas de apoyo parental.
+                    - Facilitar el acceso a servicios de salud mental: Asegurando la disponibilidad de recursos y tratamientos accesibles.
+                    - Crear entornos escolares seguros: Implementando políticas anti-acoso y promoviendo un ambiente inclusivo.
+                    - Regular el acceso a sustancias: Implementando políticas para reducir la disponibilidad de drogas y alcohol.
+                    </p>
+
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHrvlcwO3iry1rSIUN5ht-BOR_iDP79WNmvtkRQrPR0xhyFmJ2PmEAjEtFxWjCUH03Yag&usqp=CAU" alt="">
+            
+            <p>QUIZZ</p>
+            <body>
+
+                
+                </body>
+                <body>
+
+                    <div class="container">
+                        <h2> ¿Cómo pueden los medios de comunicación influir en las adicciones en adolescentes?
+                        </h2>
+                        <form action="#" method="post">
+                            <label>
+                                <input type="radio" name="respuesta" value="Es un trastorno que puede llegar a afectar tu salud como fisica y mental">
+                                - La glorificación del consumo de sustancias en los medios.
+                            </label>
+                            <label>
+                                <input type="radio" name="respuesta" value="Mal">
+                                La presión de las redes sociales para seguir tendencias de comportamiento riesgoso.
+                            </label>
+                    
+                            <input type="submit" value="Responder">
+                        </form>
+                    </div>
+                    
+                    </body>
+                </div>        
+                <body>
+
+                    <div class="container">
+                        <h2>¿Qué factores biológicos pueden influir en la salud mental de los adolescentes?</h2>
+                        <form action="#" method="post">
+                            <label>
+                                <input type="radio" name="respuesta" value="Es un trastorno que puede llegar a afectar tu salud como fisica y mental">
+                                Predisposición genética.
+                            </label>
+                            <label>
+                                <input type="radio" name="respuesta" value="Mal">
+                                Cambios hormonales durante la pubertad.
+                            </label>
+                    
+                            <input type="submit" value="Responder">
+                        </form>
+                    </div>
+                    
+                    </body>
+                </div>        
+                <body>
+
+                    <div class="container">
+                        <h2>¿Cómo puede el entorno escolar afectar la salud mental de los adolescentes?</h2>
+                        <form action="#" method="post">
+                            <label>
+                                <input type="radio" name="respuesta" value="Es un trastorno que puede llegar a afectar tu salud como fisica y mental">
+                                El acoso escolar puede causar estrés y ansiedad.
+                            </label>
+                            <label>
+                                <input type="radio" name="respuesta" value="Mal">
+                                La presión académica puede contribuir a la depresión.
+                            </label>
+                    
+                            <input type="submit" value="Responder">
+                        </form>
+                    </div>
+                    
+                    </body>
+                </div>        
+                <body>
+
+                    <div class="container">
+                        <h2>¿Cuáles son dos factores sociales que pueden aumentar el riesgo de adicciones en los adolescentes?</h2>
+                        <form action="#" method="post">
+                            <label>
+                                <input type="radio" name="respuesta" value="Es un trastorno que puede llegar a afectar tu salud como fisica y mental">
+                                La influencia de amigos que consumen sustancias.
+                            </label>
+                            <label>
+                                <input type="radio" name="respuesta" value="Mal">
+                                La presencia de conflictos familiares.
+                            </label>
+                    
+                            <input type="submit" value="Responder">
+                        </form>
+                    </div>
+                    
+                    </body>
+                </div>        
+        
+        
+        
+        
+        
+        
+        
+            <div class="item" id="control de adicciones y apoyo">
+            <h3>Control de adicciones y apoyo</h3>
+            <p>En un mundo donde las presiones y desafíos de la vida cotidiana pueden ser abrumadores, la salud mental y el bienestar se han convertido en prioridades cruciales. La lucha contra las adicciones y los trastornos mentales es una realidad para muchas personas, y reconocemos la importancia de brindar un espacio seguro y comprensivo para abordar estos temas.
+
+          
+                Bienvenidos a nuestra página web dedicada a las adicciones y la salud mental. Aquí, nos comprometemos a proporcionar información integral, recursos prácticos y apoyo emocional a quienes buscan entender, enfrentar y superar estos desafíos. Desde consejos prácticos hasta historias de superación, nuestro objetivo es ser una fuente de inspiración y ayuda para aquellos que buscan mejorar su calidad de vida</p>
+                <img src="data:image/jpeg;base64,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" alt="">
+               
+               
+               
+                
+                    
+
+                    <div class="item" id="objetivo">
+                        <h3>OBJETIVO</h3>
+                        <p>Proporcionar información precisa, recursos y apoyo a individuos que luchan contra adicciones y problemas de salud mental, con el fin de promover la conciencia, la recuperación y el bienestar.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9l5k1hE8aWjGwa1yIZpq2RtsJ2wPkb7b1Sg&s" alt="">
+                        
+                        
+                        
+                        <div class="item" id="mision">
+                            <h3>MISION</h3>
+                            <p>Nuestra misión es ofrecer un espacio seguro y comprensivo donde las personas puedan encontrar ayuda y orientación para superar las adicciones y mejorar su salud mental. Nos comprometemos a brindar información actualizada, herramientas prácticas y conexiones con profesionales capacitados para apoyar a nuestros usuarios en su viaje hacia la recuperación y la estabilidad emocional.</p>
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwiIDJ-G5ZXVLfatRDpajX1mbJAmn1WRCa8w&s" alt="">
+
+
+
+                            <div class="item" id="vision">
+                                <h3>VISION</h3>
+                                <p>Nos visualizamos como una comunidad en línea en la vanguardia del apoyo integral para la salud mental y el tratamiento de las adicciones. Buscamos un futuro en el que todas las personas tengan acceso equitativo a recursos de calidad que les permitan gestionar sus desafíos de salud mental y vivir vidas plenas y significativas. Trabajamos para reducir el estigma asociado con las enfermedades mentales y las adicciones, y para fomentar una cultura de comprensión, empatía y apoyo mutuo.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyUv6Evhmd56yn9g_-kr2zGbZ-XA8waka1kw&s" alt="">
